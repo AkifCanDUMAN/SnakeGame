@@ -19,8 +19,8 @@ import javafx.scene.text.Font;
 public class Main extends Application {
     static int speed = 5;
     static int foodcolor = 0;
-    static int width = 20;
-    static int height = 20;
+    static int width = 62;
+    static int height = 35;
     static int foodX = 0;
     static int foodY = 0;
     static int cornersize = 25;
@@ -106,8 +106,8 @@ public class Main extends Application {
     public static void tick(GraphicsContext gc) {
         if (gameOver) {
             gc.setFill(Color.RED);
-            gc.setFont(new Font("", 50));
-            gc.fillText("GAME OVER", 100, 250);
+            gc.setFont(new Font("", 75));
+            gc.fillText("GAME OVER", 500, 450);
             return;
         }
 
