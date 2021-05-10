@@ -1,5 +1,7 @@
 # SnakeGame
-Akif Can DUMAN / Furkan Ay / Abdullah Said Sandal
+Akif Can DUMAN / 
+Furkan Ay / 
+Abdullah Said Sandal
 Final Project 
 # GameOverImg
 
