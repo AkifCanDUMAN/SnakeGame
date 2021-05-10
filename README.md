@@ -1,9 +1,9 @@
 # SnakeGame
-Akif Can DUMAN 
+Akif Can DUMAN  Com20
 
-Furkan Ay 
+Furkan Ay  Com20
 
-Abdullah Said Sandal
+Abdullah Said Sandal  Com18
 
 Final Project 
 # GameOverImg
